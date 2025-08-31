@@ -9,6 +9,8 @@ Arquivos entregues:
 ### Notebook (Python)
 1. Criar ambiente e instalar: `pip install pandas numpy matplotlib scikit-learn statsmodels`
 2. Deixar os CSV/TXT na mesma pasta do notebook.
+   - https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction
+   - https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
 3. Rodar as células em ordem.
 
 Pode também acessar o link do Google Colab: https://colab.research.google.com/drive/1XoRIJBDFdJcvO-xhE1VJEuCaDi39vN4I?usp=sharing
